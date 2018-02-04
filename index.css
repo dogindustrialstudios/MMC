@@ -1,12 +1,12 @@
 #header {
-    background-image: url("/MMC/assets/header.jpg"); 
+    background-image: url("/MMC/assets/header.png"); 
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 body {
-    background: url('/MMC/assets/background.jpg') no-repeat;
+    background: url('/MMC/assets/background.png') no-repeat;
     min-height: 500px;
     background-size: 100% 100%;
     background-color: #fff;
